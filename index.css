@@ -93,3 +93,15 @@
     font-weight: lighter;
     margin-bottom: 15px;
 }
+#footer{
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+#footer>p+p{
+    color: rgb(44, 44, 199);
+   
+}
